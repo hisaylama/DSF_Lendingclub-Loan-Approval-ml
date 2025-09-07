@@ -1,7 +1,6 @@
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+plugins: jekyll-feed
 
 title: Credit Risk Analytics & Real-Time Scoring
 description: A machine learning project on credit risk modelling and real-time applicant scoring. Follow for updates and insights!
