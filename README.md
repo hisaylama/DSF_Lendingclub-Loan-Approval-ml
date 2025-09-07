@@ -1,5 +1,3 @@
-# Data-Driven Credit Risk Assessment Using Machine Learning: A LendingClub Case Study
-
 ![dsif_header_1](https://github.com/user-attachments/assets/65aba106-7de7-4db7-a5b6-08148018392c)
 ---
 This repository contains the development of predictive models for the Lending Club platform. The primary aim is to determine whether loan applications should be approved or rejected based on various financial indicators.  In this project we predict default likelihood for loan applicants and rate them with the score.
