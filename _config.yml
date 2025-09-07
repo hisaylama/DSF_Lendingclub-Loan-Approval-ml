@@ -1,3 +1,7 @@
-theme: jekyll-theme-minima
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  
 title: Credit Risk Analytics & Real-Time Scoring
 description: Bookmark this to keep an eye on my project updates!
